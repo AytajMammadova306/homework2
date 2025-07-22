@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\forexample\forexample\bin\Debug\net8.0\forexample.exe
+C:\Users\User\Desktop\forexample\forexample\bin\Debug\net8.0\forexample.deps.json
+C:\Users\User\Desktop\forexample\forexample\bin\Debug\net8.0\forexample.runtimeconfig.json
+C:\Users\User\Desktop\forexample\forexample\bin\Debug\net8.0\forexample.dll
+C:\Users\User\Desktop\forexample\forexample\bin\Debug\net8.0\forexample.pdb
+C:\Users\User\Desktop\forexample\forexample\obj\Debug\net8.0\forexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\forexample\forexample\obj\Debug\net8.0\forexample.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\forexample\forexample\obj\Debug\net8.0\forexample.AssemblyInfo.cs
+C:\Users\User\Desktop\forexample\forexample\obj\Debug\net8.0\forexample.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\forexample\forexample\obj\Debug\net8.0\forexample.dll
+C:\Users\User\Desktop\forexample\forexample\obj\Debug\net8.0\refint\forexample.dll
+C:\Users\User\Desktop\forexample\forexample\obj\Debug\net8.0\forexample.pdb
+C:\Users\User\Desktop\forexample\forexample\obj\Debug\net8.0\forexample.genruntimeconfig.cache
+C:\Users\User\Desktop\forexample\forexample\obj\Debug\net8.0\ref\forexample.dll
